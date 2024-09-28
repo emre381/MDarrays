@@ -1,0 +1,7 @@
+C:\Users\cigo_\source\repos\MDarrays\MDarrays\bin\Debug\MDarrays.exe.config
+C:\Users\cigo_\source\repos\MDarrays\MDarrays\bin\Debug\MDarrays.exe
+C:\Users\cigo_\source\repos\MDarrays\MDarrays\bin\Debug\MDarrays.pdb
+C:\Users\cigo_\source\repos\MDarrays\MDarrays\obj\Debug\MDarrays.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\MDarrays\MDarrays\obj\Debug\MDarrays.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\MDarrays\MDarrays\obj\Debug\MDarrays.exe
+C:\Users\cigo_\source\repos\MDarrays\MDarrays\obj\Debug\MDarrays.pdb
